@@ -34,7 +34,9 @@
         "#78898f",
         "#f9f9f9",
         "#ba132a",
-        "#041919"
+        "#041919",
+        "#da6b9b",
+        "#851344"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -465,7 +467,7 @@
               "color": "#ff3366"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#5b686b"
+              "color": "#851344"
             }
           },
           "_cid": "qxaMMnirXZ",
